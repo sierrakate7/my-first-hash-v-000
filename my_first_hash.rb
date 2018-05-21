@@ -35,6 +35,6 @@ def adding
   shipping_manifest["muskets"] = 2
   shipping_manifest["muskets"]
   
-  puts shipping_manifest
-  
 end 
+
+ puts shipping_manifest
